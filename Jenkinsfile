@@ -24,3 +24,4 @@ pipeline{
       error 'Pipeline failed'
     }
 }
+}
